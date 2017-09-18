@@ -26,7 +26,7 @@ This training module can also be downloaded in PDF form. <a href="/files/Milo 20
 
 Volunteer registrations enable users to record the relevant data about a volunteer. When a volunteer registration is created, it is possible to create a placement on a relevant volunteer opportunity.
 
-Volunteer registrations cannot be created without an associated contact record. Because volunteer registrations contain potentially sensitive data about individuals, they cannot be viewed by unauthorised users (e.g. staff from other TSIs).
+Because volunteer registrations contain potentially sensitive data about individuals, they cannot be viewed by unauthorised users (e.g. staff from other TSIs).
 
 
 <a href="{{ page.url }}#top">Back to Top.</a>
@@ -56,11 +56,7 @@ You will now see any contacts, interactions, organisations or volunteer registra
 
 Alternatively, you can use views (see module 01) to set up a specific filter for volunteer registrations, e.g. all volunteers in your TSI area, all Saltire registered volunteers, all volunteers from a particular school.
 
-Whichever method you use will return a list of volunteer registrations. Click on any of the contact names to access the record.
-
-**Important**: there are <u>two</u> clickable links on each record in the list results. The reference number (Ref) and the name of the volunteer (Contact Name). You access the volunteer registration by clicking on the **Ref** number (highlighted below). Clicking on Contact Name will take you to the contact record itself.
-
-![Recent Volunteer Registration](/images/milo training/04_recentvolreg.PNG)
+Whichever method you use will return a list of volunteer registrations. You access the volunteer registration by clicking on the **Ref** number.
 
 
 <a href="{{ page.url }}#top">Back to Top.</a>
@@ -70,7 +66,7 @@ Whichever method you use will return a list of volunteer registrations. Click on
 When you click into a volunteer registration record, you will see the volunteer registration view screen. As in the old system, data in each record is organised into a number of sections. Scroll down to see the data held on a volunteer registration, broken down into:
 
 * Main details
-* Address (read-only, imported from contact record)
+* Address 
 * Volunteer Specific data
 * Main details (registration)
 * Groupings, Projects and Additional Information
@@ -84,7 +80,7 @@ When you click into a volunteer registration record, you will see the volunteer 
 
 ![Volunteer Registration Page](/images/milo training/04_volregpage.PNG)
 
-Associated entities are displayed at the bottom of the screen. This is where you can view any **volunteer placements** associated with the volunteer registration record.
+Associated entities are displayed at the bottom of the screen. This is where you can view any **volunteer placements** and **interactions** associated with the volunteer registration record.
 
 ![Volunteer Placements](/images/milo training/04_volplace.PNG)
 
@@ -119,19 +115,9 @@ Select **Volunteer Registration**, and a New Volunteer Registration input page w
 
 As in the previous system, some fields in each record type are mandatory. These are signified by a red bar next to the mandatory fields. You cannot save until all of these fields have been completed.
 
-To select the contact you wish to attach a volunteer registration to, click on the magnifying glass next to Contact Name.
-
-![Lookup](/images/milo training/04_lookup.PNG)
-
-Milo 2015 Training Module 04: Volunteer Registrations Page 10 of 13
-You can select from recently-viewed contacts, or search for another contact record. Click on the name to attach the contact to the volunteer registration.
-
 Once you have added the mandatory fields plus any other information, click Save. You will then see the view volunteer registration screen as before:
 
 ![New Page](/images/milo training/04_save.PNG)
-
-n.b. – you can also attach existing a volunteer registration direct from an existing contact record (see module 03).
-
 
 <a href="{{ page.url }}#top">Back to Top.</a>
 
