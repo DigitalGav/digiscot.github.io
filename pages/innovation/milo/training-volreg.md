@@ -26,9 +26,6 @@ This training module can also be downloaded in PDF form. <a href="/files/Milo 20
 
 Volunteer registrations enable users to record the relevant data about a volunteer. When a volunteer registration is created, it is possible to create a placement on a relevant volunteer opportunity.
 
-Volunteer registrations cannot be created without an associated contact record. Because volunteer registrations contain potentially sensitive data about individuals, they cannot be viewed by unauthorised users (e.g. staff from other TSIs).
-
-
 <a href="{{ page.url }}#top">Back to Top.</a>
 
 #### Managing Volunteer Registrations in Milo <a name="manage"></a>
